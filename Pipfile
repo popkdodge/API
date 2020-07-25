@@ -4,12 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-flask = "*"
+Flask = "*"
 uvicorn = "*"
 pandas = "*"
 numpy = "*"
 joblib = "*"
-xgboost = "*"
 fastapi = "*"
 
 [dev-packages]
